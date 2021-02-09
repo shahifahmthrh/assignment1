@@ -1,0 +1,26 @@
+.img_article{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-right: 20px;
+}
+
+.tutorials {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.form_pendaftaran {
+    margin: 100px;
+}
+
+.carousel{
+    width: auto;
+    height: auto;
+    color: black;
+}
+
+.right_navbar{
+    margin-left: auto;
+}
